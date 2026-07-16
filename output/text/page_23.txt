@@ -1,0 +1,3 @@
+Expression Engineer!
+Draw lines and split the region consisting of white squares into 6 
+smaller congruent regions. 
